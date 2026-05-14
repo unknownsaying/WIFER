@@ -8,7 +8,7 @@
 #include <algorithm>
 
 using Complex = std::complex<double>;
-constexpr double PI = 3.14159265358979323846;
+constexpr double PI = 3.1415926;
 
 // ----------------------------------------------------------------------
 // 1. Fast Fourier Transform (in‑place, radix‑2, decimation‑in‑time)
